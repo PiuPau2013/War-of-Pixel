@@ -7,6 +7,7 @@
   <sounds name="sound"/>
   <sprites name="sprites">
     <sprite>sprites\sprite_player</sprite>
+    <sprite>sprites\sprite_teraerer</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
